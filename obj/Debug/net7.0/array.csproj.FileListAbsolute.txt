@@ -1,0 +1,15 @@
+D:\Patika\array\bin\Debug\net7.0\array.exe
+D:\Patika\array\bin\Debug\net7.0\array.deps.json
+D:\Patika\array\bin\Debug\net7.0\array.runtimeconfig.json
+D:\Patika\array\bin\Debug\net7.0\array.dll
+D:\Patika\array\bin\Debug\net7.0\array.pdb
+D:\Patika\array\obj\Debug\net7.0\array.csproj.AssemblyReference.cache
+D:\Patika\array\obj\Debug\net7.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\array\obj\Debug\net7.0\array.AssemblyInfoInputs.cache
+D:\Patika\array\obj\Debug\net7.0\array.AssemblyInfo.cs
+D:\Patika\array\obj\Debug\net7.0\array.csproj.CoreCompileInputs.cache
+D:\Patika\array\obj\Debug\net7.0\array.dll
+D:\Patika\array\obj\Debug\net7.0\refint\array.dll
+D:\Patika\array\obj\Debug\net7.0\array.pdb
+D:\Patika\array\obj\Debug\net7.0\array.genruntimeconfig.cache
+D:\Patika\array\obj\Debug\net7.0\ref\array.dll
